@@ -1,0 +1,7 @@
+.vs/
+
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+.nuget/packages/
