@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MemberQRCodeScannerPOC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+761f8723a62597b58643bc366f8db67913723252")]
 [assembly: System.Reflection.AssemblyProductAttribute("MemberQRCodeScannerPOC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MemberQRCodeScannerPOC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
